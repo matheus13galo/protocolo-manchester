@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1495675522 source:d:\documentos\washington\aspi modificado\manchester\aspi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<strings.h>
+	<ctype.h>
+	<conio.h>
+
